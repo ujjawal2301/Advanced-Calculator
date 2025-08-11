@@ -1,4 +1,3 @@
-# Advanced-Calculator
 
 An elegant, dark-themed calculator built with HTML, CSS, and JavaScript.
 Performs all basic arithmetic operations with a sleek, responsive UI.
@@ -25,7 +24,7 @@ Designed for both everyday use and advanced math needs.
 
 # 🌐 Live Demo
 
-- 
+- 👉 [Advanced calculator Live]{https://ujjawal2301.github.io/Advanced-Calculator/}
 
 # 🙌 Creator
 
